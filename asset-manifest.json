@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobileshop/static/css/main.38e93470.css",
+    "main.js": "/mobileshop/static/js/main.19268559.js",
+    "static/js/787.50be5b2b.chunk.js": "/mobileshop/static/js/787.50be5b2b.chunk.js",
+    "index.html": "/mobileshop/index.html",
+    "main.38e93470.css.map": "/mobileshop/static/css/main.38e93470.css.map",
+    "main.19268559.js.map": "/mobileshop/static/js/main.19268559.js.map",
+    "787.50be5b2b.chunk.js.map": "/mobileshop/static/js/787.50be5b2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38e93470.css",
+    "static/js/main.19268559.js"
+  ]
+}
